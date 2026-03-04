@@ -173,7 +173,7 @@
 > >
 > > **Quantisage** — *Where Growth Meets Compliance*
 > > - Email: info@quantisage.com
-> > - - Founder: [Vir Bahu](https://github.com/virbahu) — vir@quantisage.com
+> > - - Founder: [Vir](https://github.com/virbahu) — vir@quantisage.com
 > >  
 > >   - ## 📄 License
 > >  
